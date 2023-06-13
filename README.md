@@ -39,7 +39,7 @@ Explora paisajes impresionantes, desde frondosos bosques hasta picos nevados y v
 
 - Perfil del jugador
 
-  <img src="/Img/Profile.png" alt="profile" width="960" height="454" />
+  <img src="/Img/Profile.png" alt="profile" width="1000" height="454" />
 
 - Tienda y Mejoras
 
@@ -47,24 +47,24 @@ Explora paisajes impresionantes, desde frondosos bosques hasta picos nevados y v
 
 - Mapas
 
-  <img src="/Img/Maps.png" alt="shop-upgrade" width="960" height="454" />
+  <img src="/Img/Maps.png" alt="shop-upgrade" width="1000" height="454" />
 
 - Misiones
 
-  <img src="/Img/Quests.png" alt="shop-upgrade" width="960" height="454" />
+  <img src="/Img/Quests.png" alt="shop-upgrade" width="1000" height="454" />
 
 - Ranking
 
-  <img src="/Img/Ranking.png" alt="shop-upgrade" width="960" height="454" />
+  <img src="/Img/Ranking.png" alt="shop-upgrade" width="1000" height="454" />
 
 - Equipamiento
 
-  ![Equipment](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiNzk1ZTQzODdjNzY3NWE2ZjM5NjkzNGYxZjI5YWVjMTdmYmRjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fr7RnGvtDZHz42sWBZ/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiNzk1ZTQzODdjNzY3NWE2ZjM5NjkzNGYxZjI5YWVjMTdmYmRjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fr7RnGvtDZHz42sWBZ/giphy.gif" alt="Equipment" width="1000" height="454" />
 
 - Tooltip (informacion del item)
 
-  ![Tooltip](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY0NWYxNDM2YzlhOWM5ZmY2MjRhODFkMjg4NjA5NDczNGZkYmEwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Bxc8oK7MNHmxVEJ5Yz/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY0NWYxNDM2YzlhOWM5ZmY2MjRhODFkMjg4NjA5NDczNGZkYmEwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Bxc8oK7MNHmxVEJ5Yz/giphy.gif" alt="Tooltip" width="1000" height="454" />
 
 - Batalla contra NPC
 
-  ![PvE](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgxZmViYzNkMGE2MGEzMjQ3MTgzNWIxZjgyZGFjNzE4OGQxNWQ2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2fqLNKVf48aSlOWHJ5/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgxZmViYzNkMGE2MGEzMjQ3MTgzNWIxZjgyZGFjNzE4OGQxNWQ2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2fqLNKVf48aSlOWHJ5/giphy.gif" alt="PvE" width="1000" height="454" />

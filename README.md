@@ -39,11 +39,11 @@ Explora paisajes impresionantes, desde frondosos bosques hasta picos nevados y v
 
 - Perfil del jugador
 
-  ![Profile](/Img/Profile.png)
+  <img src="/Img/Profile.png" alt="profile" width="500" height="300" />
 
 - Tienda y Mejoras
 
-  ![Shop](/Img/ShopUpgrade.png)
+  <img src="/Img/ShopUpgrade.png" alt="shop-upgrade" width="500" height="300" />
 
 - Batalla contra NPC
 

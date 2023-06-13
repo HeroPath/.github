@@ -59,7 +59,11 @@ Explora paisajes impresionantes, desde frondosos bosques hasta picos nevados y v
 
 - Equipamiento
 
-  ![Equipment](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY0NWYxNDM2YzlhOWM5ZmY2MjRhODFkMjg4NjA5NDczNGZkYmEwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Bxc8oK7MNHmxVEJ5Yz/giphy.gif)
+  ![Equipment](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiNzk1ZTQzODdjNzY3NWE2ZjM5NjkzNGYxZjI5YWVjMTdmYmRjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fr7RnGvtDZHz42sWBZ/giphy.gif)
+
+- Tooltip (informacion del item)
+
+  ![Tooltip](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY0NWYxNDM2YzlhOWM5ZmY2MjRhODFkMjg4NjA5NDczNGZkYmEwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Bxc8oK7MNHmxVEJ5Yz/giphy.gif)
 
 - Batalla contra NPC
 

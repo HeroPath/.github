@@ -47,4 +47,4 @@ Explora paisajes impresionantes, desde frondosos bosques hasta picos nevados y v
 
 - Batalla contra NPC
 
-  ![PvE](/Img/pve.gif)
+  ![PvE](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgxZmViYzNkMGE2MGEzMjQ3MTgzNWIxZjgyZGFjNzE4OGQxNWQ2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2fqLNKVf48aSlOWHJ5/giphy.gif)

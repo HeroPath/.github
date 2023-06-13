@@ -31,7 +31,9 @@ Explora paisajes impresionantes, desde frondosos bosques hasta picos nevados y v
 - Bootstrap
 - JavaScript
 - React.js
-- GSAP
+- Gsap
+- MUI Materials
+- Toastify
 
 ## Imágenes
 

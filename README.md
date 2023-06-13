@@ -37,3 +37,4 @@ Explora paisajes impresionantes, desde frondosos bosques hasta picos nevados y v
 
 ## Imágenes
 
+![Profile](img/Profile.jpg)

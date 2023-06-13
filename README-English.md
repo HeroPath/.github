@@ -39,23 +39,23 @@ Explore stunning landscapes, from lush forests to snow-capped peaks and vast des
 
 - Player Profile
 
-  <img src="/Img/Profile.png" alt="profile" width="1000" height="454" />
+  <img src="/Img/Profile.png" alt="profile" width="1437" height="680" />
 
 - Shop and Upgrades
 
-  <img src="/Img/ShopUpgrade.png" alt="shop-upgrade" width="501" height="361" />
+  <img src="/Img/ShopUpgrade.png" alt="shop-upgrade" width="752" height="542" />
 
 - Maps
 
-  <img src="/Img/Maps.png" alt="shop-upgrade" width="1000" height="454" />
+  <img src="/Img/Maps.png" alt="shop-upgrade" width="1437" height="680" />
 
 - Quests
 
-  <img src="/Img/Quests.png" alt="shop-upgrade" width="1000" height="454" />
+  <img src="/Img/Quests.png" alt="shop-upgrade" width="1437" height="680" />
 
 - Ranking
 
-  <img src="/Img/Ranking.png" alt="shop-upgrade" width="1000" height="454" />
+  <img src="/Img/Ranking.png" alt="shop-upgrade" width="1437" height="680" />
 
 - Equipment
 

@@ -39,23 +39,23 @@ Explora paisajes impresionantes, desde frondosos bosques hasta picos nevados y v
 
 - Perfil del jugador
 
-  <img src="/Img/Profile.png" alt="profile" width="1437" height="680" />
+  <img src="/Img/Profile.png" alt="profile" width="958" height="453" />
 
 - Tienda y Mejoras
 
-  <img src="/Img/ShopUpgrade.png" alt="shop-upgrade" width="752" height="542" />
+  <img src="/Img/ShopUpgrade.png" alt="shop-upgrade" width="602" height="433" />
 
 - Mapas
 
-  <img src="/Img/Maps.png" alt="shop-upgrade" width="1437" height="680" />
+  <img src="/Img/Maps.png" alt="shop-upgrade" width="958" height="453" />
 
 - Misiones
 
-  <img src="/Img/Quests.png" alt="shop-upgrade" width="1437" height="680" />
+  <img src="/Img/Quests.png" alt="shop-upgrade" width="958" height="453" />
 
 - Ranking
 
-  <img src="/Img/Ranking.png" alt="shop-upgrade" width="1437" height="680" />
+  <img src="/Img/Ranking.png" alt="shop-upgrade" width="958" height="453" />
 
 - Equipamiento
 

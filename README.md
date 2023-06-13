@@ -59,12 +59,12 @@ Explora paisajes impresionantes, desde frondosos bosques hasta picos nevados y v
 
 - Equipamiento
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiNzk1ZTQzODdjNzY3NWE2ZjM5NjkzNGYxZjI5YWVjMTdmYmRjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fr7RnGvtDZHz42sWBZ/giphy.gif" alt="Equipment" width="500" height="227" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiNzk1ZTQzODdjNzY3NWE2ZjM5NjkzNGYxZjI5YWVjMTdmYmRjZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fr7RnGvtDZHz42sWBZ/giphy.gif" alt="Equipment" width="768" height="340" />
 
 - Tooltip (informacion del item)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY0NWYxNDM2YzlhOWM5ZmY2MjRhODFkMjg4NjA5NDczNGZkYmEwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Bxc8oK7MNHmxVEJ5Yz/giphy.gif" alt="Tooltip" width="500" height="227" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY0NWYxNDM2YzlhOWM5ZmY2MjRhODFkMjg4NjA5NDczNGZkYmEwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Bxc8oK7MNHmxVEJ5Yz/giphy.gif" alt="Tooltip" width="768" height="340" />
 
 - Batalla contra NPC
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgxZmViYzNkMGE2MGEzMjQ3MTgzNWIxZjgyZGFjNzE4OGQxNWQ2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2fqLNKVf48aSlOWHJ5/giphy.gif" alt="PvE" width="500" height="227" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgxZmViYzNkMGE2MGEzMjQ3MTgzNWIxZjgyZGFjNzE4OGQxNWQ2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2fqLNKVf48aSlOWHJ5/giphy.gif" alt="PvE" width="768" height="340" />

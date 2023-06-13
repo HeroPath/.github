@@ -45,6 +45,22 @@ Explora paisajes impresionantes, desde frondosos bosques hasta picos nevados y v
 
   <img src="/Img/ShopUpgrade.png" alt="shop-upgrade" width="501" height="361" />
 
+- Mapas
+
+  <img src="/Img/Maps.png" alt="shop-upgrade" width="960" height="454" />
+
+- Misiones
+
+  <img src="/Img/Quests.png" alt="shop-upgrade" width="960" height="454" />
+
+- Ranking
+
+  <img src="/Img/Ranking.png" alt="shop-upgrade" width="960" height="454" />
+
+- Equipamiento
+
+  ![Equipment](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY0NWYxNDM2YzlhOWM5ZmY2MjRhODFkMjg4NjA5NDczNGZkYmEwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Bxc8oK7MNHmxVEJ5Yz/giphy.gif)
+
 - Batalla contra NPC
 
   ![PvE](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTgxZmViYzNkMGE2MGEzMjQ3MTgzNWIxZjgyZGFjNzE4OGQxNWQ2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2fqLNKVf48aSlOWHJ5/giphy.gif)
